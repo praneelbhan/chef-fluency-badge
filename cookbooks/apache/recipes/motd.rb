@@ -1,4 +1,4 @@
 hostname = node['hostname']
 file '/etc/motd' do
-	content "Hostname is this: #{hostname}"
+	content "Hostname Kinoya Power  : #{hostname}"
 end
